@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- import classes so we can use them -->
+
+<?import javafx.scene.canvas.Canvas?>
+<?import javafx.scene.layout.Pane?>
+<Pane fx:id="root" prefWidth="600" prefHeight="800" xmlns:fx="http://javafx.com/fxml/1"
+
+      fx:controller="Controller">                                   <!-- the root node is Pane, allows us manual placement without auto layout -->
+                                                                <!-- set preferred width and height to 600 and 800 and point to Controller class -->
+  <Canvas fx:id="canvas" width="600" height="800" />            <!-- create Pane for game objects, give it fx:id so FXML can inject it to Controller -->
+  <Pane fx:id="uiRoot">                                         <!-- create Pane on top of previous for UI -->
+  </Pane>
+    
+</Pane>
+

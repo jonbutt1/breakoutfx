@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=scene
+comment0.target=Controller(javafx.scene.Scene)
+comment1.params=location\ resources
+comment1.target=void\ initialize(java.net.URL,\ java.util.ResourceBundle)
+numComments=2

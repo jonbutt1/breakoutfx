@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=canvas
+comment0.target=View(javafx.scene.canvas.Canvas)
+comment1.params=m\ arg
+comment1.target=void\ update(java.util.Observable,\ java.lang.Object)
+comment1.text=\r\n\ Called\ when\ the\ model\ has\ changed,\r\n\ @param\ m\ The\ model\ that\ has\ changed\r\n\ @param\ arg\ Optional\ arguments\ (Not\ used)\r\n
+comment2.params=
+comment2.target=void\ drawActualPicture()
+comment2.text=\r\n\ Draw\ the\ actual\ picture\ of\ the\ games\ current\ state\r\n
+comment3.params=go
+comment3.target=void\ displayGameObj(GameObj)
+comment3.text=\r\n\ Display\ a\ game\ object\ as\ a\ rectangle\r\n\ @param\ go\ The\ game\ object\r\n
+numComments=4
